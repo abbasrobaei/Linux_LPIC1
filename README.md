@@ -1,5 +1,14 @@
 # Linux_LPIC1
 
+
+Hier sind alle 10 aufgaben automatisieren mit erklärung.
+Sie müssen nur drei Schritte ausführen: 
+1. Laden Sie das Skript „aufgaben.sh“ herunter.
+2. Geben Sie den Code ein, um Zugriff auf das Skript zu gewähren.
+3. Führen Sie das Skript mit diesem Befehl aus: ./aufgaben.sh
+fertig...
+
+
 1-
 chmod +x aufgaben.sh
 2-
